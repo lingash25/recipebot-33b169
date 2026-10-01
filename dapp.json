@@ -22,7 +22,7 @@
       "key": "ANTHROPIC_MODEL",
       "description": "Default Claude model id for recipe chat (users can pick their own in App settings)",
       "required": false,
-      "default": "claude-sonnet-5"
+      "default": "claude-sonnet-5-5"
     },
     {
       "key": "THINKING_ENABLED",
